@@ -40,7 +40,7 @@ export default function App() {
             className={activeContentIndex === 3 ? "active" : ""}
             onClick={() => setActiveContentIndex(3)}
           >
-            Benefits
+            Benefits of React
           </button>
         </menu>
         <div id="tab-content">
